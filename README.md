@@ -1,4 +1,4 @@
-# Hey, folks! <img src="https://raw.githubusercontent.com/thinkerou/thinkerou/master/wave.gif" width="30px"> 
+# Hey, coder! <img src="https://raw.githubusercontent.com/thinkerou/thinkerou/master/wave.gif" width="30px"> 
 
 [![](https://gitwar.herokuapp.com/badge?username=cookieY&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
@@ -13,6 +13,11 @@ My name is 叶邵斌 and I'm a Devops. I'm from China 🇨🇳, living in 杭州
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)
 
 <hr>
+
+## Content Me 📱
+
+- email: <a href="mailto:henry@yearning.io">henry@yearning.io</a>
+
 
 <a href="https://github.com/cookieY/github-readme-stats" title="Go to Source">
   <img height=180 src="https://github-readme-stats.vercel.app/api?username=cookieY&show_icons=true&theme=gotham">
